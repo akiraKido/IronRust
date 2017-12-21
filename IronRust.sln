@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IronRust", "IronRust\IronRust.csproj", "{D16DA9CB-BEFE-4DF7-9159-0CFDF350011A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IlPeeker", "IlPeeker\IlPeeker.csproj", "{2F4A0BB9-0835-428E-8D2C-A3F5021EE942}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParserCombinator", "..\..\source\repos\csharp-parser-combinators\src\ParserCombinator\ParserCombinator.csproj", "{0DF04300-F1DF-4812-B737-31E0077FEE5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronRustTests", "IronRustTests\IronRustTests.csproj", "{3CB9B3F8-24B7-4A5D-8B1F-210E223B610D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D16DA9CB-BEFE-4DF7-9159-0CFDF350011A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16DA9CB-BEFE-4DF7-9159-0CFDF350011A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16DA9CB-BEFE-4DF7-9159-0CFDF350011A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16DA9CB-BEFE-4DF7-9159-0CFDF350011A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F4A0BB9-0835-428E-8D2C-A3F5021EE942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F4A0BB9-0835-428E-8D2C-A3F5021EE942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F4A0BB9-0835-428E-8D2C-A3F5021EE942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F4A0BB9-0835-428E-8D2C-A3F5021EE942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DF04300-F1DF-4812-B737-31E0077FEE5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DF04300-F1DF-4812-B737-31E0077FEE5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DF04300-F1DF-4812-B737-31E0077FEE5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DF04300-F1DF-4812-B737-31E0077FEE5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB9B3F8-24B7-4A5D-8B1F-210E223B610D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB9B3F8-24B7-4A5D-8B1F-210E223B610D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB9B3F8-24B7-4A5D-8B1F-210E223B610D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB9B3F8-24B7-4A5D-8B1F-210E223B610D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {446525E1-1D8F-4684-849D-67D5FBB57691}
+	EndGlobalSection
+EndGlobal
