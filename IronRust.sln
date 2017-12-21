@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IronRust", "IronRust\IronRu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IlPeeker", "IlPeeker\IlPeeker.csproj", "{2F4A0BB9-0835-428E-8D2C-A3F5021EE942}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParserCombinator", "..\..\source\repos\csharp-parser-combinators\src\ParserCombinator\ParserCombinator.csproj", "{0DF04300-F1DF-4812-B737-31E0077FEE5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IronRustTests", "IronRustTests\IronRustTests.csproj", "{3CB9B3F8-24B7-4A5D-8B1F-210E223B610D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronRustTests", "IronRustTests\IronRustTests.csproj", "{3CB9B3F8-24B7-4A5D-8B1F-210E223B610D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParserCombinator", "ParserCombinator\src\ParserCombinator\ParserCombinator.csproj", "{FA95786C-9A41-4E83-AC5F-77312A0D09AB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,14 +25,14 @@ Global
 		{2F4A0BB9-0835-428E-8D2C-A3F5021EE942}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F4A0BB9-0835-428E-8D2C-A3F5021EE942}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F4A0BB9-0835-428E-8D2C-A3F5021EE942}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0DF04300-F1DF-4812-B737-31E0077FEE5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0DF04300-F1DF-4812-B737-31E0077FEE5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0DF04300-F1DF-4812-B737-31E0077FEE5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0DF04300-F1DF-4812-B737-31E0077FEE5C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3CB9B3F8-24B7-4A5D-8B1F-210E223B610D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3CB9B3F8-24B7-4A5D-8B1F-210E223B610D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CB9B3F8-24B7-4A5D-8B1F-210E223B610D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CB9B3F8-24B7-4A5D-8B1F-210E223B610D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA95786C-9A41-4E83-AC5F-77312A0D09AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA95786C-9A41-4E83-AC5F-77312A0D09AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA95786C-9A41-4E83-AC5F-77312A0D09AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA95786C-9A41-4E83-AC5F-77312A0D09AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
