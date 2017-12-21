@@ -3,7 +3,7 @@ using ParserCombinator;
 
 namespace IronRust
 {
-    using static StringParsers;
+    //using static StringParsers;
 
     public class ParserCombinated
     {

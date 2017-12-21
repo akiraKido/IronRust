@@ -6,6 +6,6 @@
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\source\repos\csharp-parser-combinators\src\ParserCombinator\ParserCombinator.csproj" />
+    <ProjectReference Include="..\ParserCombinator\src\ParserCombinator\ParserCombinator.csproj" />
   </ItemGroup>
 </Project>
